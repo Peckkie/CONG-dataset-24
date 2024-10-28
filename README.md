@@ -1,4 +1,7 @@
 ## Additional explanation
+
+This GitHub repository is used to store the CONG dataset, which contains information about incidents involving Concealed Guns, collected from YouTube and other sources.
+
 There are 2 important CSV files
 
 <details open>
